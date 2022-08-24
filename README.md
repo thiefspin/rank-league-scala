@@ -1,4 +1,6 @@
 # Score Board Calculator
+
+![Build Status](https://github.com/thiefspin/rank-league-scala/workflows/Scala%20CI/badge.svg?branch=master)
 ## Overview
 This command line application takes in a file with game results in the following format:
 
